@@ -12,3 +12,6 @@ Intent adalah mekanisme untuk melakukan sebuah action dan komunikasi antar kompo
  Intent Explicit yang berfungsi untuk mengaktifkan komponen-komponen dalam satu aplikasi yang sama. Misalnya seperti : Berpindah Activity.
  
  Intent Implisit yang berfungsi untuk memanggil fungsi activity yang sudah ada di fungsi internal android seperti : Dial Number, dan lainnya.
+
+![](intent1.PNG)
+![](intent2.PNG)
